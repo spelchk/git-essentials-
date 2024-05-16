@@ -1,1 +1,5 @@
 You will understand GIT
+
+test to see if this shit is working correctly
+
+this is the second edit to this document  
